@@ -1,0 +1,31 @@
+.parent-a {
+    background-color: #f3ba71;
+    width: 500px;
+    height: 500px;
+}
+
+.child-b {
+    background-color: #aae96e;
+    width: 50%;
+    height: 50%;
+}
+
+.text-c {
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.parent-d {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(110, 204, 233);
+}
+
+.child-e {
+    width: 75vw;
+    height: 50%;
+    background-color: rgb(255, 0, 0);
+}
